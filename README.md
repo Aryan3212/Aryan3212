@@ -19,8 +19,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Jetpack Compose
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning Jetpack Compose<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with ..Android 😥
 - 💬 Ask me about software products
 - 📫 How to reach me: rahman.aryan07@gmail.com
