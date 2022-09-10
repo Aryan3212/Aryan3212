@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan!</h1>
 <h3 align="center">A builder of software.</h3>
 
-- 🔭 I’m currently working on **software products at a Stealth Startup.**
+- 🔭 I’m currently working on **filling my knowledge gaps.**
 
 - 🌱 I’m currently learning **Golang, JavaScript, PostgreSQL, Android(Mobile App dev), Wordpress.**
 
