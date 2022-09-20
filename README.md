@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, JavaScript, PostgreSQL, Android(Mobile App dev), Wordpress.**
 
-- 👯 I’m looking to collaborate on **any cool projects that have sustainable positive social impact.**
+- ☄ I’m looking to collaborate on **any cool projects that have sustainable positive social impact.**
 
 - 🤝 I’m looking for help with **growing as an engineer and leader.**
 
