@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **filling my knowledge gaps.**
 
-- 🌱 I’m currently learning **Golang, JavaScript, PostgreSQL, Android(Mobile App dev), Wordpress.**
+- 🌱 I’m currently learning **Golang, JavaScript, PostgreSQL, Mobile App Dev(Android), Wordpress.**
 
 - ☄ I’m looking to collaborate on **any cool projects that have sustainable positive social impact.**
 
