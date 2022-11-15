@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **filling my knowledge gaps.**
 
-- 🌱 I’m currently learning **Golang, JavaScript, PostgreSQL, Mobile App Dev(Android), Wordpress.**
+- 🌱 I’m currently learning **TypeScript, Mobile App Dev(Android), .NET.**
 
 - ☄ I’m looking to collaborate on **any cool projects that have sustainable positive social impact.**
 
 - 🤝 I’m looking for help with **growing as an engineer and leader.**
 
-- 💬 Ask me about **React, JavaScript, Node.js, DB design and anything related to software or real-life problem solving.**
+- 💬 Ask me about **React, JavaScript, Database design and anything related to software or real-life problem solving.**
 
 - 📫 How to reach me **rahman.aryan07@gmail.com**
 
