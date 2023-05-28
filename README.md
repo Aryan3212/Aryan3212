@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan!</h1>
-<h3 align="center">A builder of software.</h3>
-
-- 🔭 I’m currently working on **Nand2Tetris.**
+<h3 align="center">Building with code.</h3>
 
 - 🌱 I’m currently learning **how to take it slow.**
-
-- ☄ I’m looking to collaborate on **any cool projects that are actually useful.**
-
-- 🤝 I’m looking for help with **growing as an engineer.**
-
-- 💬 Ask me about **React, JavaScript, Database Design and UX.**
 
 - 📫 How to reach me **rahman.aryan07@gmail.com**
 
