@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aryan!</h1>
-<h3 align="center">Building with code.</h3>
-
-- 🌱 I’m currently learning **how to take it slow.**
-
 - 📫 How to reach me **rahman.aryan07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
