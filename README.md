@@ -1,2 +1,3 @@
-- 📫 How to reach me **rahman.aryan07@gmail.com**
+-  Find details about my work at aryanrahman.dev/category/portfolio/1
+-  📫 How to reach me **rahman.aryan07@gmail.com**
 - Trying to build stuff that matter.
