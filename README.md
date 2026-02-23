@@ -1,3 +1,9 @@
--  Find details about my work at https://www.aryanrahman.dev/category/portfolio/1
--  📫 How to reach me **rahman.aryan07@gmail.com**
-- Trying to build stuff that matter.
+## Hey, I'm Aryan
+
+- Full-stack engineer (~4 years) — worked across backend, frontend, and infra at Optimizely and GoZayaan
+- Currently doing independent research in **speech representation learning** (continuous-latent autoencoders, low-resource Bengali speech)
+- Interests: local-first software, AI systems (RAG), audio/speech, resource-efficient ML
+- Built things like a [custom URL system serving ~1M req/day](https://aryanrahman.dev/post/portfolio/optimizely-custom-url/), an [SEO builder that grew organic traffic 3.5x](https://aryanrahman.dev/post/portfolio/gozayaan-seo-builder/), and an [offline-first currency converter](https://aryanrahman.dev/post/portfolio/currency-converter/) with multi-tier caching
+- I write about tradeoffs I've hit in production, [deep learning experiment methodology](https://aryanrahman.dev/post/deep-learning-experiment-checklist/), and things I'm still figuring out
+- Portfolio + writing: [aryanrahman.dev](https://aryanrahman.dev)
+- Reach me: **rahman.aryan07@gmail.com**
