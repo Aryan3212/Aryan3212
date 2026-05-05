@@ -7,4 +7,4 @@
   - [offline-first currency converter](https://github.com/Aryan3212/currencyconvert)
 - Interests: local-first software, tech4good
 - Portfolio + writing: [aryanrahman.dev](https://www.aryanrahman.dev)
-- Reach me: **rahman.aryan07@gmail.com**
+- Reach me: rahman.aryan07@gmail.com
